@@ -1,7 +1,5 @@
 # Simple 16-bit CPU in Digital
-
-![CPU Screenshot](screenshot.png)  
-*(Screenshot placeholder - replace with actual image of your circuit)*
+![image](https://github.com/user-attachments/assets/ddd7e58b-b466-4df3-9b2c-2f462130f42c)
 
 ## Overview
 This is a simple 16-bit CPU implementation built using [Digital](https://github.com/hneemann/Digital), a digital circuit simulator. The current version implements basic functionality to add two numbers and store the result in a register.
@@ -12,7 +10,7 @@ This is a simple 16-bit CPU implementation built using [Digital](https://github.
 - Basic arithmetic operations (currently only addition)
 - Program counter for instruction sequencing
 - 32-bit instruction format
-![image](https://github.com/user-attachments/assets/ddd7e58b-b466-4df3-9b2c-2f462130f42c)
+
 
 ## Current Implementation
 The CPU currently supports:
